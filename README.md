@@ -1,6 +1,13 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+</div>### Certifications
+
+| Certificate | Platform | Link |
+|-------------|---------|------|
+| Java Programming | SoloLearn | [View](https://www.sololearn.com/Certificate/XYZ) |
+| Python 3 Tutorial | SoloLearn | [View](https://www.sololearn.com/Certificate/ABC) |
+| React Basics | Coursera | [View](https://www.coursera.org/certificate/DEF) |
+
 
 <h1 align="center">Hi 👋, I'm Reezicyb</h1>
 <h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
