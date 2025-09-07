@@ -20,6 +20,9 @@
 ## 📜 Certifications
 
 <p align="center">
+  <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
+    <img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="C++ Intro Certificate" />
+  </a>
   <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
     <img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intro Certificate" />
   </a>
