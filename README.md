@@ -10,7 +10,9 @@
 <h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezicyb" alt="GitHub Trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reezicyb" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
@@ -18,9 +20,15 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-C++%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="C++ Intro Certificate" /></a>
-  <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intro Certificate" /></a>
-  <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-Java%20Intermediate-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intermediate Certificate" /></a>
+  <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
+    <img src="https://img.shields.io/badge/SoloLearn-C++%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="C++ Intro Certificate" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
+    <img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intro Certificate" />
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
+    <img src="https://img.shields.io/badge/SoloLearn-Java%20Intermediate-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intermediate Certificate" />
+  </a>
 </p>
 
 ---
@@ -28,10 +36,18 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://facebook.com/raiko.rebucas" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" /></a>
-  <a href="https://instagram.com/rrj.aeiuo" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height="35" alt="StackOverflow profile" /></a>
+  <a href="https://facebook.com/raiko.rebucas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/rrj.aeiuo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="StackOverflow" />
+  </a>
 </p>
 
 ---
