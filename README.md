@@ -10,9 +10,7 @@
 <h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reezicyb" alt="GitHub Trophy" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezicyb" alt="GitHub Trophy" /></a>
 </p>
 
 ---
@@ -20,15 +18,9 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
-    <img src="https://img.shields.io/badge/SoloLearn-C++%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="C++ Intro Certificate" />
-  </a>
-  <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
-    <img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intro Certificate" />
-  </a>
-  <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
-    <img src="https://img.shields.io/badge/SoloLearn-Java%20Intermediate-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intermediate Certificate" />
-  </a>
+  <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-C++%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="C++ Intro Certificate" /></a>
+  <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-Java%20Intro-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intro Certificate" /></a>
+  <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-Java%20Intermediate-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intermediate Certificate" /></a>
 </p>
 
 ---
@@ -36,15 +28,10 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://facebook.com/raiko.rebucas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/rrj.aeiuo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+  <a href="https://facebook.com/raiko.rebucas" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" /></a>
+  <a href="https://instagram.com/rrj.aeiuo" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height="35" alt="StackOverflow profile" /></a>
 </p>
 
 ---
@@ -55,7 +42,7 @@
   <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
