@@ -14,6 +14,9 @@
 <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
   <img src="https://img.shields.io/badge/SoloLearn-Certificate-blue?style=for-the-badge&logo=sololearn" height="35" alt="sololearn logo" />
 </a>
+<a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
+  <img src="https://img.shields.io/badge/SoloLearn-Certificate-blue?style=for-the-badge&logo=sololearn" height="35" alt="sololearn logo" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
