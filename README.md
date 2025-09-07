@@ -16,6 +16,7 @@
 
 ---
 
+
 ## 📜 Certifications
 
 <p align="left">
@@ -27,28 +28,6 @@
   </a>
   <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intermediate&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="35" alt="Java Intermediate Certificate" />
-  </a>
-</p>
-
----
-
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://facebook.com/raiko.rebucas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=282a36&logoColor=4267B2&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/rrj.aeiuo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282a36&logoColor=E4405F&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282a36&logoColor=0A66C2&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=282a36&logoColor=FE7A16&style=for-the-badge" height="35" alt="StackOverflow" />
-  </a>
-  <a href="https://leetcode.com/u/Reezi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282a36&logoColor=FFA116&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </p>
 
@@ -79,3 +58,27 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git logo" /></a>
   </div>
 </p>
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://facebook.com/raiko.rebucas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=282a36&logoColor=4267B2&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/rrj.aeiuo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282a36&logoColor=E4405F&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282a36&logoColor=0A66C2&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=282a36&logoColor=FE7A16&style=for-the-badge" height="35" alt="StackOverflow" />
+  </a>
+  <a href="https://leetcode.com/u/Reezi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282a36&logoColor=FFA116&style=for-the-badge" height="35" alt="LeetCode" />
+  </a>
+</p>
+
+---
