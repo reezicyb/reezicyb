@@ -16,21 +16,19 @@
 
 ---
 
-## 🛠 Languages & Tools
-
-### 🛠️ Tech Stack
-
-[![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-
+## 🛠 Tech Stack
+<p>
+  [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
+  [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+  [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
+  [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+  [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+  [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
+  [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
+  [![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
+  [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+</p>
 
 ---
 
