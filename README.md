@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJkZjhwdThtZXY1OXY1dm52NWJwamRlMXNxdG5ueTc0ZnlhdDNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"/>
+  ![Alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJkZjhwdThtZXY1OXY1dm52NWJwamRlMXNxdG5ueTc0ZnlhdDNleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)
 </div>
 
 <h1 align="center">Hi 👋, I'm Reezicyb</h1>
