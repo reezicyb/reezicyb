@@ -14,7 +14,7 @@
 <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
   <img src="https://img.shields.io/badge/SoloLearn-Certificate-blue?style=for-the-badge&logo=sololearn" height="35" alt="sololearn logo" />
 </a>
-<a href="https://api2.sololearn.com/v2/certificates/CC-XKTAY3BY/image/jpg?t=638928132055608940" target="_blank">
+<a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
   <img src="https://img.shields.io/badge/SoloLearn-Certificate-blue?style=for-the-badge&logo=sololearn" height="35" alt="sololearn logo" />
 </a>
 
