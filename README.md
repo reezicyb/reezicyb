@@ -10,11 +10,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezicyb" alt="reezicyb" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and Vue.js**
-
-- 📫 How to reach me **jones.estrada3@gmail.com**
-
-- ⚡ Fun fact **I got the...**
+### 📜 Certificates
+<a href="[YOUR_CERTIFICATE_LINK](https://www.sololearn.com/certificates/CC-1V3V8UI2)" target="_blank">
+  <img src="https://img.shields.io/badge/SoloLearn-Certificate-blue?style=for-the-badge&logo=sololearn" height="35" alt="sololearn logo" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
