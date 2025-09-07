@@ -38,13 +38,14 @@
   <img width="12" />
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git logo" /></a>
 </div>
+
 ---
 
 ## 📜 Certifications
 
 <p align="left">
   <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=CPP%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="200" width="200" alt="C++ Intro Certificate" />
+    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=CPP%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="250" width="250" alt="C++ Intro Certificate" />
   </a>
   <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="60" alt="Java Intro Certificate" />
