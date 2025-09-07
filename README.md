@@ -18,7 +18,7 @@
 
 ## 📜 Certifications
 
-<p align="center">
+<p align="left">
   <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=C++%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="35" alt="C++ Intro Certificate" />
   </a>
@@ -34,7 +34,7 @@
 
 ## 🔗 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://facebook.com/raiko.rebucas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=282a36&logoColor=4267B2&style=for-the-badge" height="35" alt="Facebook" />
   </a>
