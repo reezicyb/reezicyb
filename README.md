@@ -2,6 +2,9 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<img src="https://img.shields.io/badge/SoloLearn-Java-blue?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/SoloLearn-Python-green?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Coursera-React-red?style=for-the-badge&logo=coursera&logoColor=white" />
 
 <h1 align="center">Hi 👋, I'm Reezi</h1>
 <h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
