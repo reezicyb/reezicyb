@@ -17,27 +17,34 @@
 ---
 
 ## 🛠 Tech Stack
-
-<p>
-  [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
-  [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-  [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-  [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-  [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-  [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-  [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-  [![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-  [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-</p>
-
+<div align="left">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="60" alt="Android logo" /></a>
+  <img width="12" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" /></a>
+  <img width="12" />
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="60" alt="C# logo" /></a>
+  <img width="12" />
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS3 logo" /></a>
+  <img width="12" />
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML5 logo" /></a>
+  <img width="12" />
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java logo" /></a>
+  <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" /></a>
+  <img width="12" />
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="60" alt="React logo" /></a>
+  <img width="12" />
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="Figma logo" /></a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git logo" /></a>
+</div>
 ---
 
 ## 📜 Certifications
 
 <p align="left">
   <a href="https://www.sololearn.com/certificates/CC-WQPRE5IJ" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=CPP%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="60" alt="C++ Intro Certificate" />
+    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=CPP%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="60" width="60" alt="C++ Intro Certificate" />
   </a>
   <a href="https://www.sololearn.com/certificates/CC-1V3V8UI2" target="_blank">
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="60" alt="Java Intro Certificate" />
