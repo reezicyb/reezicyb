@@ -19,7 +19,7 @@
 ## 🛠 Languages & Tools
 
 <p>
-  <div align="center">
+  <div align="left">
     <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="60" alt="Android logo" /></a>
     <img width="12" />
     <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" /></a>
