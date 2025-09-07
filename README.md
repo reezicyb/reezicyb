@@ -36,19 +36,19 @@
 
 <p align="center">
   <a href="https://facebook.com/raiko.rebucas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=282a36&logoColor=4267B2&style=for-the-badge" height="35" alt="Facebook" />
   </a>
   <a href="https://instagram.com/rrj.aeiuo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=282a36&logoColor=E4405F&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/raiko-estrada-14aa2b2b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282a36&logoColor=0A66C2&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/31437362/raiko-estrada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="StackOverflow" />
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=282a36&logoColor=FE7A16&style=for-the-badge" height="35" alt="StackOverflow" />
   </a>
   <a href="https://leetcode.com/u/Reezi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282a36&logoColor=FFA116&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </p>
 
