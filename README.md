@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intro&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="250" width="250" alt="Java Intro Certificate" />
   </a>
   <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intermediate&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="250" width="250" alt="Java Intermediate Certificate" />
+    <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intermediate&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="300" width="300" alt="Java Intermediate Certificate" />
   </a>
 </p>
 
