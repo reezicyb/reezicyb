@@ -2,12 +2,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Reezicyb</h1>
-<h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reezicyb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Reezicyb</h1>
+<h3 align="center">Tech student from the Philippines exploring code, creativity, and possibilities.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,9 +26,6 @@
   <a href="https://www.sololearn.com/certificates/CC-XKTAY3BY" target="_blank">
     <img src="https://img.shields.io/badge/SoloLearn-Java%20Intermediate-blue?style=for-the-badge&logo=sololearn" height="35" alt="Java Intermediate Certificate" />
   </a>
-</p>
-<p align="center">
-  <sub>Java Introduction</sub> &nbsp;&nbsp;&nbsp; <sub>Java Intermediate</sub>
 </p>
 
 ---
