@@ -13,7 +13,9 @@
   <img src="https://streak-stats.demolab.com?user=reezicyb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=reezicyb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 ---
+
 ## 🛠 Languages & Tools
 
 <p>
@@ -39,7 +41,9 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git logo" /></a>
   </div>
 </p>
+
 ---
+
 ## 📜 Certifications
 
 <p align="left">
@@ -53,7 +57,9 @@
     <img src="https://img.shields.io/static/v1?label=SoloLearn&message=Java%20Intermediate&color=282a36&logo=sololearn&logoColor=0abf53&style=for-the-badge" height="60" alt="Java Intermediate Certificate" />
   </a>
 </p>
+
 ---
+
 ## 🔗 Connect with me
 
 <p align="left">
@@ -73,4 +79,5 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=282a36&logoColor=FFA116&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </p>
+
 ---
